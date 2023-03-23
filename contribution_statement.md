@@ -15,3 +15,7 @@ Completed question 4
 Hamsa Jambulapati:
 
 Completed question 6
+
+Reuel Yang:
+
+Checked and edited codes to be better reproducible and easier to understand
